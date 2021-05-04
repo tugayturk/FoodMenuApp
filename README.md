@@ -1,7 +1,7 @@
 # FoodMenuApp
 Food-Menu
 
-# Technologies: React,React Router, ReactStrap, JavaScript
+#Technologies: React,React Router, ReactStrap, JavaScript
 
 #Screenshot
 
