@@ -1,0 +1,19 @@
+.cart {
+    position: fixed;
+    bottom:10px;
+    right: 0px;
+    height: 40%;
+    width: 12%;
+    z-index: 10;
+    background-color: rgb(241, 230, 228);
+    list-style-type:decimal;
+    text-align: center;
+    border-radius: 10px;
+}
+.title{
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 10px;
+    font-size: 1rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
